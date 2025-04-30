@@ -6,7 +6,7 @@ Excel based Project
 - So using my own skill on analysis, I wanted to compare those who servived and those died based many factors including classes, sex, age group, etc.
 
 ## Dataset Used
-- <a href="https://github.com/Salah-Adam/titanic-dataset/blob/main/dashboard.png">Dataset</a>
+- <a href="https://github.com/Salah-Adam/titanic-dataset/blob/main/titanic.xlsx">Dataset</a>
 
 ## Questions
 - Compare servived or dead based on their classes. which class has the most number of dead passengers
